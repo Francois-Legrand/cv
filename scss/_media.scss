@@ -1,205 +1,210 @@
 
 @media screen and (min-width: 768px){
 
-                .all--second{
-                    height: 100vh;
-                }
+                    .all--second{
+                        height: 100vh;
+                    }
 
-                .all__flex--first{
-                display: flex;
-                justify-content: space-between;
-            }
-                    .title--first{
-                        padding-top: 5px;
+                    .all__flex--first{
+                    display: flex;
+                    justify-content: space-between;
                     }
-                    .all__para{
-                        margin-bottom: 40px;
-                    }
-                    .all__para--first{
-                        padding-top: 7px;
-                    }
-                    .all__img{
-                        height: 240px;
-                        width: 240px;
-                    }
+                        .title--first{
+                            padding-top: 5px;
+                        }
+                                .all__para{
+                                    margin-bottom: 40px;
+                                }
+                                .all__para--first{
+                                    padding-top: 7px;
+                                }
+                                    .all__img{
+                                        height: 240px;
+                                        width: 240px;
+                                    }
 }
 @media screen and (min-width: 1024px){
         .all__site{
             margin: auto;
             width: 900px;
         }
-                .all{
-                    height: 50vh;
-                }
-                .all__flex--second{
-                    flex-direction: row;
-                    align-items: center;
-                }
-                        .all__box{
-                            width: 33%;
-                            height: 40vh;
-                        }
-                        .all__box--first{
-                            width: 45%;
-                            text-align: center;
-                            margin: auto;
-                        }
-                        .all__box--second{
-                            width: 33%;
-                        }
-                        .all__box--third{
-                            margin: auto;
-                            width: 50%;
-                        }
+                    .all{
+                        height: 50vh;
+                    }
+                    /*index*/
+                            .all__flex--second{
+                                flex-direction: row;
+                                align-items: center;
+                            }
+                            .all__box{
+                                width: 33%;
+                                height: 40vh;
+                            }
+                            .all__box--first{
+                                width: 45%;
+                                text-align: center;
+                                margin: auto;
+                            }
+                            .all__box--second{
+                                width: 33%;
+                            }
+                            /*exp and competence*/
+                    .all__box--third{
+                        margin: auto;
+                        width: 50%;
+                    }
 
-                                .all__img--first{
-                                    height: 425px;
-                                }
+                                    .all__img--first{
+                                        height: 425px;
+                                    }
 }
 @media screen and (min-width: 1280px){
-                .all{
-                    height: 100vh;
-                    display: flex;
-                    flex-direction: column;
-                    justify-content: space-around;
-                }
-                                .all__img--first{
-                                    height: 67vh;
-                                }
-                                .all__box--third{
-                                    margin: auto;
-                                    width: 50%;
-                                }
+                    .all{
+                        height: 100vh;
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: space-around;
+                    }
+                                    .all__img--first{
+                                        height: 67vh;
+                                    }
+                                    .all__box--third{
+                                        margin: auto;
+                                        width: 50%;
+                                    }
     
 }
 @media screen and (min-width: 1400px){
-   .all__width{
-       width: 32%;
-   }
-    .all__site{
-        width: 1400px;
-    }
-    .container-header-nav{
-        display: block;
-    }
-    #sprite-accueil, #sprite-exp, #sprite-portfolio, #sprite-contact, #sprite-feedback, #sprite-blog, #facebook, #linkedin, #partage, #twitter{
-        width: 50px;
-        height: 50px;
-        display: block;
-        position: absolute;
-        z-index: 2;
-    }
-    #facebook:hover, #linkedin:hover, #partage:hover, #twitter:hover{
-        box-shadow: 0px 0px 5px;
-    }
-    #facebook{
-        background: url("../img/sprite/sprite3.png") no-repeat local 0px 0px;
-        margin: -5px 125px;
-    }
-    #linkedin{
-        background: url("../img/sprite/sprite3.png") no-repeat local -120px 0px;
-        margin: -5px 174px;
-    }
-    #partage{
-        background: url("../img/sprite/sprite3.png") no-repeat local -240px 0px;
-        margin: -5px 223px;
-    }
-    #twitter{
-        background: url("../img/sprite/sprite3.png") no-repeat local -360px 0px;
-        margin: -5px 272px;
-    } 
+
+        .all__site{
+            width: 1400px;
+        }
+                    .all__width-special{
+                        width: 451px;
+                    }
             .header{
                 display: flex;
                 flex-direction: row;
             }
-            .header__right{
-                width: 100%;
-            }
-            .section--third{
-                display: flex;
-                flex-direction: row-reverse;
-            }
-            .section--fourth{
-                display: flex;
-            }
-                .all{
-                    height: 55vh;
-                    justify-content: space-around;
-                }
-                .all--first{
-                    width: 68%;
-                }
-                .all--fifth{
-                    width: 70%;
-                }
-                .all--sixth{
-                    height: 40vh;
-                    width: 100%;
-                    display: flex;
-                    flex-direction: row;
-                }
-                .all--seventh{
+                    .header__right{
+                        width: 100%;
+                    }        
+                            .container-header-nav{
+                                display: block;
+                            }
+                                            #sprite-accueil, #sprite-exp, #sprite-portfolio, #sprite-contact, #sprite-feedback, #sprite-blog, #facebook, #linkedin, #mail, #twitter{
+                                                width: 50px;
+                                                height: 50px;
+                                                display: block;
+                                                position: absolute;
+                                                z-index: 2;
+                                            }
+                                            #facebook:hover, #linkedin:hover, #mail:hover, #twitter:hover{
+                                                box-shadow: 0px 0px 5px;
+                                            }
+                                            #facebook{
+                                                background: url("../img/sprite/sprite3.png") no-repeat local 0px 0px;
+                                                margin: -15px 125px;
+                                            }
+                                            #linkedin{
+                                                background: url("../img/sprite/sprite3.png") no-repeat local -120px 0px;
+                                                margin: -15px 174px;
+                                            }
+                                            #mail{
+                                                background: url("../img/sprite/sprite3.png") no-repeat local -240px 0px;
+                                                margin: -15px 223px;
+                                            }
+                                            #twitter{
+                                                background: url("../img/sprite/sprite3.png") no-repeat local -360px 0px;
+                                                margin: -15px 272px;
+                                            } 
+            
+                .section--third{
                     display: flex;
                     flex-direction: row-reverse;
                 }
-                .all__flex--fourth{
+                .section--fourth{
                     display: flex;
-                    flex-direction: column;
                 }
-                .all__flex--third{
-                    width: 100%;
-                }
-                        .all__box--first{
-                            width: 90%;
-                            height: 20vh;
-                        }
-                                .all__img--first{
-                                    width: 600px;
-                                    height: 100%;
-                                }
-                               
-                    .all__loisir{
-                        width: 30%;
-                        margin: auto;
+                    .all{
+                        height: 55vh;
+                        justify-content: space-around;
                     }
-    
+                    .all--first{
+                        width: 68%;
+                    }
+                    .all--fifth{
+                        width: 70%;
+                    }
+                    .all--sixth{
+                        height: 40vh;
+                        width: 100%;
+                        display: flex;
+                        flex-direction: row;
+                    }
+                    .all--seventh{
+                        display: flex;
+                        flex-direction: row-reverse;
+                    }
+                        .all__loisir{
+                            width: 30%;
+                            margin: auto;
+                        }
+                            .title--fourth{
+                                font-size: 5rem;
+                            }
+                        .all__flex--fourth{
+                            display: flex;
+                            flex-direction: column;
+                        }
+                        .all__flex--third{
+                            width: 100%;
+                        }
+                            .all__box--first{
+                                width: 90%;
+                                height: 20vh;
+                            }
+                                    .all__img--first{
+                                        width: 600px;
+                                        height: 100%;
+                                    }
     
 }
+
 @media screen and (min-width: 1920px){
-    .all{
-        height: 45vh;
-    }
-    .all--sixth{
-        height: 34vh;
-    }
-    .all__box{
-        height: 30vh;
-    }
-    .all__box--first{
-        height: 18vh;
-    }
-    .all__img--first{
-        height: 100%;
-    }
+                    .all{
+                        height: 45vh;
+                    }
+                    .all--sixth{
+                        height: 34vh;
+                    }
+                            .all__box{
+                                height: 30vh;
+                            }
+                            .all__box--first{
+                                height: 18vh;
+                            }
+                                .all__img--first{
+                                    height: 100%;
+                                }
 }
 
 @media screen and (min-width: 3830px){
-    .all{
-        height: 25vh;
-    }
-    .all--sixth{
-        height: 18vh;
-        
-    }
-    .all__box{
-        height: 20vh;
-    }
-    .all__box--first{
-        height: 10vh;
-    }
-    .all__flex--third{
-        height: 25vh;
-    }
-    
-   
+                    .all{
+                        height: 25vh;
+                    }
+                    .all--sixth{
+                        height: 18vh;
+                        
+                    }
+                        .all__flex--third{
+                            height: 25vh;
+                        }
+                            .all__box{
+                                height: 20vh;
+                            }
+                            .all__box--first{
+                                height: 10vh;
+                            }
+                    
 }

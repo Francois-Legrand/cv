@@ -17,7 +17,7 @@
             ?>
             <section class="section section--third">
                 <div class="all__flex--third all__bg--third">
-                    <h2 class="title">Since<br>2019</h2>    
+                    <h2 class="title title--fourth">Since<br>2019</h2>    
                 </div>
                 <article class="all all__border--fifth">
                         <!--partie 2 de gauche-->
@@ -25,14 +25,13 @@
                         <div class="all__pop">
                         </div>
                         <h2 class="title">POP-SCHOOL</h2>
-                            <p class="all__bull">Survolez le titre</p>
                             <p class="all__para">Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte p</p>
                     </div>
                 </article>
             </section>
             <section class="section section--fourth">
                 <div class="all__flex--third all__bg--first">
-                    <h2 class="title">Since<br>2019</h2>    
+                    <h2 class="title title--fourth">Since<br>2019</h2>    
                 </div>
                 <article class="all all__border--first">
                         <!--partie 2 de gauche-->
@@ -40,14 +39,13 @@
                         <div class="all__pop">
                         </div>
                         <h2 class="title">POP-SCHOOL</h2>
-                            <p class="all__bull">Survolez le titre</p>
                             <p class="all__para">Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte p</p>
                     </div>
                 </article>
             </section>
             <section class="section section--third">
                 <div class="all__flex--third all__bg--second">
-                    <h2 class="title">Since<br>2019</h2>    
+                    <h2 class="title title--fourth">Since<br>2019</h2>    
                 </div>
                 <article class="all all__border--third">
                         <!--partie 2 de gauche-->
@@ -55,14 +53,13 @@
                         <div class="all__pop">
                         </div>
                         <h2 class="title">POP-SCHOOL</h2>
-                            <p class="all__bull">Survolez le titre</p>
                             <p class="all__para">Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte p</p>
                     </div>
                 </article>
             </section>
             <section class="section section--fourth">
                 <div class="all__flex--third all__bg--fifth">
-                    <h2 class="title">Since<br>2019</h2>    
+                    <h2 class="title title--fourth">Since<br>2019</h2>    
                 </div>
                 <article class="all all__border--second">
                         <!--partie 2 de gauche-->
@@ -70,7 +67,6 @@
                         <div class="all__pop">
                         </div>
                         <h2 class="title">POP-SCHOOL</h2>
-                            <p class="all__bull">Survolez le titre</p>
                             <p class="all__para">Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte p</p>
                     </div>
                 </article>
