@@ -1,9 +1,22 @@
 /*menu*/
-.menu{
-    z-index: 2;
-    width: 100%;
-    position: fixed;
-    display: none;
+
+.side-nav ul{
+    margin: 0 !important;
+}
+.boutton-menu{
+    width:50px !important;
+    position: absolute !important;
+}
+.side-nav .collapsible a{
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+    height: 17vh !important;
+    font-size: 1.5rem !important;
+    font-family: 'Teko', sans-serif !important;
+    color: white;
+    text-decoration: none;
+    padding:0;
 }
     .menu__container{
         margin:0;
@@ -31,17 +44,9 @@
     .menu__li--sixth{
         background-color: #e48125;
     }
-    .menu__a{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 17vh;
-        font-size: 2rem;
-        font-family: 'Teko', sans-serif;
-        color: white;
-        text-decoration: none;
-    }
+    
 
+/*menu*/
 /*menu*/
 .container-header-nav{
     display: none;

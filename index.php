@@ -8,6 +8,7 @@
         <meta name="description" content="Développeur web Legrand François">
         <meta name="viewport"content="width=device-width, initial-scale=1.0">
         <link href="https://fonts.googleapis.com/css?family=Coda|Staatliches|Teko&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
         <link rel="stylesheet" href="css/style.css">
     </head>
     <body>
@@ -17,8 +18,8 @@
             ?>
             <!--partie 1 de droite-->
             <main>
-                <section class="section section--third">
-                    <article class="all all--second all__border--second all__width-special">
+                <article class="section section--third">
+                    <section class="all all--second all__border--second all__width-special">
                         <h1 class="title">Infos personnel</h1>
                         <div class="all__flex--first">
                             <h2 class="title title--first">Nom</h2>
@@ -47,9 +48,9 @@
                                 <span id="twitter"></span>
                             </a>
                         </div>
-                    </article>
+                    </section>
                 <!--partie 1 de gauche-->  
-                    <article class="all all--first all__border--first">
+                    <section class="all all--first all__border--first">
                         <h1 class="title">Les Bonnes Pratiques!</h1>
                         <div class="all__flex">
                             <div class="all__box">
@@ -80,29 +81,27 @@
                                 </p>
                             </div>
                         </div>
-                    </article>
-                </section>  
+                    </section>
+                </article>  
                 <!--partie 2 de gauche-->
-                <section class="section section--fourth">
-                    <article class="all all__border--third">
+                <article class="section section--fourth">
+                    <section class="all all__border--third">
                         <h1 class="title">Deux Derniers Emplois</h1>
                         <div class="all__flex all__flex--fourth">
                             <div class="all__box all__box--first">
-                                <h2 class="title title--second">Assistant de Batman</h2>
-                                <h3 class="title title--first title--second">2018-2019</h3>
-                                <p class="all__para">Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression</p>
+                                <h2 class="title title--second">Dépanneur hardware</h2>
+                                <h3 class="title title--first title--second">2007-2013</h3>
+                                <p class="all__para">Technicien de maintenance hardware pour la societé CDV informatique.</p>
                             </div>
                             <div class="all__box all__box--first">
-                                <h2 class="title title--second">Assistant de Batman</h2>
-                                <h3 class="title title--first title--second">2018-2019</h3>
-                                <p class="all__para">Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression</p>
+                                <h2 class="title title--second">Magasinier pour le groupe HANNAC</h2>
+                                <h3 class="title title--first title--second">2005-2007</h3>
+                                <p class="all__para">Gestion matériels en pharmacie de la polyclinique de liévin.</p>
                             </div>
                         </div>
-                    </article>
-            
+                    </section>
                 <!--partie 2 de droite-->
-            
-                    <article class="all all--fifth all__border--fifth">
+                    <section class="all all--fifth all__border--fifth">
                         <h1 class="title">Compétences</h1>
                             <div class="all__flex--second">
                                 <div class="all__box--second">
@@ -115,41 +114,41 @@
                                     <img class="all__img" src="img/JS.png" alt="">
                                 </div>
                             </div>
-                    </article> 
-                </section>   
-                <section class="section">
-                    <article class="all all--second all--sixth all__border--first">
+                    </section> 
+                </article>   
+                <article class="section">
+                    <section class="all all--second all--sixth all__border--first">
                         <div class="all__loisir">
                             <h3 class="title">Des loisirs pour décomprésser</h3>
                             <p class="all__para">
-                            Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression 
+                            Rien de tel qu'une petite course à pièd pour décompresser,après une dure journée de travail, se dépenser c'est remettre les compteur a zéro. je peux courrir jusqu'a 50km par semaine dans les meilleurs moments. 
                             </p>
                         </div>
                             <img class="all__img--first" src="img/course-a-pied.jpg" alt="une personne qui cours">
-                    </article>
-
-                    <article class="all all--second all--sixth all--seventh all__border--third">
+                    </section>
+                    <section class="all all--second all--sixth all--seventh all__border--third">
                         <div class="all__loisir">
                             <h3 class="title">Des loisirs pour décomprésser</h3>
                             <p class="all__para">
-                            Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression 
+                            Idéal pour s'endormir, rester passif devant une serie nous aides parfois bien dormir. 
                             </p>
                         </div>    
                             <img class="all__img--first" src="img/gastonomie.jpg" alt="une personne qui cours">
-                    </article>
-
-                    <article class="all all--fifth all--second all--sixth all__border--second">
+                    </section>
+                    <section class="all all--fifth all--second all--sixth all__border--second">
                         <div class="all__loisir">
                             <h3 class="title">Des loisirs pour décomprésser</h3>
                             <p class="all__para ">
-                            Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression 
+                            J'aime cuisiner et faire de bon petit plat, après avoir fait du sport j'ai besoin de recharger les batteries. je suis aussi intéressé par la patisserie, l'aspect technique de cette discipline est très intéressante. 
                             </p>
                         </div>
                             <img class="all__img--first" src="img/netflix.jpg" alt="une personne qui cours">
-                    </article>
-                </section>
+                    </section>
+                </article>
             </main> 
-    </div>    
+        </div>
+        <?php 
+            include("script.php");
+        ?>
     </body> 
-    <script src="https://kit.fontawesome.com/536fe6e8c5.js"></script>
 </html>    

@@ -1,5 +1,17 @@
 
 /*header*/
+
+.custom-scrollbar{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width:80%;
+    position:fixed;
+}
+.collapsible{
+    padding: 0;
+    margin: 0;
+}
             .header{
                 display: flex;
                 flex-direction: column;
@@ -56,6 +68,10 @@
                 }
                 .second--first{
                     background-color: #3397e1;
+                }
+                .card{
+                    width:100% !important;
+                    margin:auto;
                 }    
                     .all{
                         height: 100vh;
@@ -170,6 +186,7 @@
                         }
                                     .title{ 
                                         padding-left: 20px;
+                                        padding-top: 25px;
                                         font-family: 'Teko', sans-serif;
                                         font-weight: normal;
                                         font-size: 1.8rem;

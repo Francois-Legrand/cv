@@ -7,7 +7,7 @@
         <meta charset="UTF-8">
         <meta name="description" content="Développeur web Legrand François">
         <meta name="viewport"content="width=device-width, initial-scale=1.0">
-        
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
         <link href="https://fonts.googleapis.com/css?family=Coda|Staatliches|Teko&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="css/style.css">
     </head>
@@ -16,54 +16,24 @@
             <?php
                 include("header-menu.php");
             ?>
-            <section class="section section--third">
-                <article class="all all__border--third">
-                        <!--partie 2 de gauche-->
-                    <div class="all__box all__box--third">
-                        <h2 class="title">Mes compétences</h2> 
-                            <p class="all__para">Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte p</p>
-                    </div>
-                </article>
+            <section>
                 <div class="all all__flex--third all__border--second">
                     <img class="all__img--second" src="img/htmlcss.png" alt="">    
                 </div>
-            </section>
-            <section class="section section--fourth">
-                <article class="all all__border--first">
-                        <!--partie 2 de gauche-->
-                    <div class="all__box all__box--third">
-                        <h2 class="title">Mes compétences</h2> 
-                            <p class="all__para">Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte p</p>
-                    </div>
-                </article>
+                
                 <div class="all all__flex--third all__border--fifth">
                     <img class="all__img--second" src="img/jsphp.png" alt="">    
                 </div>
-            </section>
-            <section class="section section--third">
-                <article class="all all__border--second">
-                        <!--partie 2 de gauche-->
-                    <div class="all__box all__box--third">
-                        <h2 class="title">Mes compétences</h2> 
-                            <p class="all__para">Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte p</p>
-                    </div>
-                </article>
                 <div class="all all__flex--third all__border--third">
                     <img class="all__img--second" src="img/reactvue.png" alt="">    
                 </div>
-            </section>
-            <section class="section section--fourth">
-                <article class="all all__border--fifth">
-                        <!--partie 2 de gauche-->
-                    <div class="all__box all__box--third">
-                        <h2 class="title">Mes compétences</h2> 
-                            <p class="all__para">Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte p</p>
-                    </div>
-                </article>
                 <div class="all all__flex--third all__border--first">
                     <img class="all__img--second" src="img/bootstrapwordpress.png" alt="">    
                 </div>
             </section>
         </div>
+        <?php 
+            include("script.php");
+        ?>
     </body>
 </html>

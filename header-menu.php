@@ -1,40 +1,47 @@
             <header>
                 <div class="header">
-                    <nav class="menu">
-                        <ul class="menu__container">          
-                            <li class="menu__li menu__li--first">
-                                <a class="menu__a" href="index.php">
-                                    <span class="menu__span">Accueil</span>
-                                </a>
+                     <!-- SideNav slide-out button -->
+                    <a href="#" data-activates="slide-out" class="btn btn-primary p-3 button-collapse boutton-menu"><i
+                    class="fas fa-bars"></i></a>
+                    <!-- Sidebar navigation -->
+                    <nav id="slide-out" class="side-nav">
+                            <!-- Side navigation links -->
+                            <li>
+                            <ul class="collapsible collapsible-accordion">
+                                <li class="menu__li menu__li--first">
+                                    <a class="menu__a" href="index.php">
+                                        <span class="menu__span">Accueil</span>
+                                    </a>
+                                </li>
+                                <li class="menu__li menu__li--second">
+                                    <a class="menu__a" href="exp.php">
+                                        <span class="menu__span">Experience</span>
+                                    </a>
+                                </li>   
+                                <li class="menu__li menu__li--third">
+                                    <a class="menu__a" href="competence.php">
+                                        <span class="menu__span">Compétences</span>
+                                    </a>
+                                </li>
+                                <li class="menu__li menu__li--fourth">
+                                    <a class="menu__a" href="contact.php">
+                                        <span class="menu__span">Contact</span>
+                                    </a>
+                                </li>
+                                <li class="menu__li menu__li--fifth">
+                                    <a class="menu__a" href="realisations.php">
+                                        <span class="menu__span">Réalisations</span>
+                                    </a>
+                                </li>
+                                <li class="menu__li menu__li--sixth">
+                                    <a class="menu__a" href="blog.php">
+                                        <span class="menu__span">Blog</span>
+                                    </a>
+                                </li>
+                            </ul>
                             </li>
-                            <li class="menu__li menu__li--second">
-                                <a class="menu__a" href="exp.php">
-                                    <span class="menu__span">Experience</span>
-                                </a>
-                            </li>   
-                            <li class="menu__li menu__li--third">
-                                        
-                                <a class="menu__a" href="competence.php">
-                                    <span class="menu__span">Compétences</span>
-                                </a>
-                            </li>
-                            <li class="menu__li menu__li--fourth">
-                                <a class="menu__a" href="#map">
-                                    <span class="menu__span">Contact</span>
-                                </a>
-                            </li>
-                            <li class="menu__li menu__li--fifth">
-                                <a class="menu__a" href="feedback.php">
-                                    <span class="menu__span">Réalisations</span>
-                                </a>
-                            </li>
-                            <li class="menu__li menu__li--sixth">
-                                <a class="menu__a" href="blog.php">
-                                    <span class="menu__span">Blog</span>
-                                </a>
-                            </li>
-                        </ul>
                     </nav>
+                    <!--/. Sidebar navigation -->
                     
                     <div class="header__img-container">
                         <img class="header__img" src="img/moi.jpg">
@@ -73,7 +80,7 @@
                                             <span id="sprite-contact"></span>
                                         </li>
                                         <li class="feedback">
-                                            <a class="a-feedback" href="feedback.php"><span class="a-feedback-span">réalisations</span></a>
+                                            <a class="a-feedback" href="realisations.php"><span class="a-feedback-span">réalisations</span></a>
                                             <span id="sprite-feedback"></span>
                                         </li>
                                         <li class="blog">
