@@ -309,7 +309,9 @@ ul span {
   .header__img-container {
     display: flex;
     justify-content: center;
-    background-color: white; }
+    background-color: black; }
+  .header__img {
+    width: 100%; }
   .header__right {
     display: flex;
     flex-direction: column; }
@@ -527,6 +529,9 @@ ul span {
   .header {
     display: flex;
     flex-direction: row; }
+
+  .header__img {
+    width: 500px; }
 
   .header__right {
     width: 100%; }
