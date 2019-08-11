@@ -18,17 +18,17 @@
             ?>
             <section>
                 <div class="all all__flex--third all__border--second">
-                    <img class="all__img--second" src="img/htmlcss.png" alt="">
+                    <img class="all__img--second" src="img/htmlcss2.png" alt="">
                 </div>
                 
                 <div class="all all__flex--third all__border--fifth">
-                    <img class="all__img--second" src="img/jsphp.png" alt="">    
+                    <img class="all__img--second" src="img/jsphp2.png" alt="">    
                 </div>
                 <div class="all all__flex--third all__border--third">
-                    <img class="all__img--second" src="img/reactvue.png" alt="">    
+                    <img class="all__img--second" src="img/reactvue2.png" alt="">    
                 </div>
                 <div class="all all__flex--third all__border--first">
-                    <img class="all__img--second" src="img/bootstrapwordpress.png" alt="">    
+                    <img class="all__img--second" src="img/bootstrapwordpress2.png" alt="">    
                 </div>
             </section>
         </div>
