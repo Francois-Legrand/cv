@@ -18,7 +18,7 @@
             ?>
             <section>
                 <div class="all all__flex--third all__border--second">
-                    <img class="all__img--second" src="img/htmlcss.png" alt="">    
+                    <img class="all__img--second" src="img/htmlcss2.png" alt="">
                 </div>
                 
                 <div class="all all__flex--third all__border--fifth">
