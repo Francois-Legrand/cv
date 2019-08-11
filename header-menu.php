@@ -44,7 +44,7 @@
                     <!--/. Sidebar navigation -->
                     
                     <div class="header__img-container">
-                        <img class="header__img" src="img/moi.jpg">
+                        <img class="header__img" src="img/moi2.jpg">
                     </div>
                     <div class="header__right">
                         <div class="header__container">
