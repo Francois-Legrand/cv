@@ -311,7 +311,8 @@ ul span {
     justify-content: center;
     background-color: black; }
   .header__img {
-    width: 100%; }
+    width: 500px;
+    height: 350px; }
   .header__right {
     display: flex;
     flex-direction: column; }
