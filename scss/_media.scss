@@ -92,7 +92,10 @@
             }
                     .header__right{
                         width: 100%;
-                    }        
+                    } 
+                    .side-nav, .button{
+                        display: none;
+                    }       
                             .container-header-nav{
                                 display: block;
                             }
