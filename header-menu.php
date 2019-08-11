@@ -1,8 +1,10 @@
             <header>
                 <div class="header">
                      <!-- SideNav slide-out button -->
-                    <a href="#" data-activates="slide-out" class="btn btn-primary p-3 button-collapse boutton-menu"><i
-                    class="fas fa-bars"></i></a>
+                    <div class="button">
+                        <a href="#" data-activates="slide-out" class="btn btn-primary p-3 button-collapse boutton-menu"><i
+                        class="fas fa-bars"></i></a>
+                    </div>
                     <!-- Sidebar navigation -->
                     <nav id="slide-out" class="side-nav">
                             <!-- Side navigation links -->
