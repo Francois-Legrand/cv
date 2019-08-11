@@ -310,9 +310,6 @@ ul span {
     display: flex;
     justify-content: center;
     background-color: black; }
-  .header__img {
-    width: 320px;
-    height: 250px; }
   .header__right {
     display: flex;
     flex-direction: column; }
@@ -531,8 +528,8 @@ ul span {
     display: flex;
     flex-direction: row; }
 
-  .header__img {
-    width: 500px;
+  .header__img-container {
+    width: 800px;
     height: 350px; }
 
   .header__right {
