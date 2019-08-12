@@ -60,7 +60,7 @@
             </article>
             <article class="section section--fourth">
                 <div class="all__flex--third all__bg--fifth">
-                    <h2 class="title title--fourth">Since<br>2019</h2>    
+                    <h2 class="title title--fourth">Since<br>2002</h2>    
                 </div>
                 <section class="all all__border--second">
                         <!--partie 2 de gauche-->
