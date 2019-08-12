@@ -133,7 +133,7 @@
                             Idéal pour s'endormir, rester passif devant une serie nous aides parfois bien dormir. 
                             </p>
                         </div>    
-                            <img class="all__img--first" src="img/gastonomie.jpg" alt="une personne qui cours">
+                            <img class="all__img--first" src="img/netflix.jpg" alt="une personne qui cours">
                     </section>
                     <section class="all all--fifth all--second all--sixth all__border--second">
                         <div class="all__loisir">
@@ -142,7 +142,7 @@
                             J'aime cuisiner et faire de bon petit plat, après avoir fait du sport j'ai besoin de recharger les batteries. je suis aussi intéressé par la patisserie, l'aspect technique de cette discipline est très intéressante. 
                             </p>
                         </div>
-                            <img class="all__img--first" src="img/netflix.jpg" alt="une personne qui cours">
+                            <img class="all__img--first" src="img/gastonomie.jpg" alt="une personne qui cours">
                     </section>
                 </article>
             </main> 
