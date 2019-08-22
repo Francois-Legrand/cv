@@ -59,7 +59,7 @@
                                     <i class="title__ico fas fa-mobile-alt"></i>
                                 </div>
                                 <p class="all__para">
-                                Le concept mobile first consiste à concevoir un site en concevant en priorité la version mobile.
+                                Le concept mobile first consiste à concevoir un site en concevant en priorité la version mobile. Cette pratique est devenu courante.
                                 </p>
                             </div>
                             <div class="all__box">
