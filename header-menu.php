@@ -58,7 +58,7 @@
                             </div>
                             <div class="header__row">
                                 <div class="header__description header__description--primary">
-                                    <h1 class="description">Nationalité</h1>
+                                    <h1 class="description">Développeur Web</h1>
                                 </div>
                                 <img class="smile" src="img/FR.jpg">
                             </div>
