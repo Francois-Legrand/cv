@@ -59,7 +59,7 @@
                                     <i class="title__ico fas fa-mobile-alt"></i>
                                 </div>
                                 <p class="all__para">
-                                    Tout le monde apprécie lorsque c'est bien rangé, c'est d'autant plus vrai le jour où nous cherchons la chose dont on à tant besoin. Avec un code bien construit le dev ne cherche plus, il suit simplement les consignes et trouve toujours son bonheur.
+                                Le concept mobile first consiste à concevoir un site en concevant en priorité la version mobile et en adaptant progressivement celui-ci pour les écrans plus large. Cette façon de procédé est contraire à la manière ordinaire qui consiste à dégrader progressivement un site web pour l'adapter à un affichage sur des écrans plus petit.
                                 </p>
                             </div>
                             <div class="all__box">
@@ -68,7 +68,7 @@
                                     <i class="title__ico fas fa-certificate"></i>
                                 </div>
                                 <p class="all__para">
-                                    Tout le monde apprécie lorsque c'est bien rangé, c'est d'autant plus vrai le jour où nous cherchons la chose dont on à tant besoin. Avec un code bien construit le dev ne cherche plus, il suit simplement les consignes et trouve toujours son bonheur. 
+                                BEM n'est ni une marque de voiture ni un groupe de musique, et encore moins une onomatopée (quoique). C'est plutôt une façon de nommer les classes en CSS, une convention en d'autres termes voire une méthodologie. 
                                 </p>
                             </div>
                             <div class="all__box">
@@ -77,7 +77,7 @@
                                     <i class="title__ico fab fa-html5"></i>
                                 </div>    
                                 <p class="all__para">
-                                    Cela vous est dêja arrivé. vous naviguez sur un site à l'image de son créateur, malheurement pour vous il est resté coincer dans les années 80, vous avez un peu la nauzé car voyager dans une machine à voyager dans le temps c'est éprouvant...
+                                Le HTML sémantique est l'utilisation du balisage HTML visant à renforcer le sémantisme des informations contenues dans les pages web, c'est-à-dire leur sens, plutôt que de se borner à définir leurs présentations. Le HTML sémantique est traité par les navigateurs courants, mais aussi par de nombreux autres agents utilisateurs.
                                 </p>
                             </div>
                         </div>
