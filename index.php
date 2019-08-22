@@ -22,8 +22,8 @@
                     <section class="all all--second all__border--second all__width-special">
                         <h1 class="title">Infos personnel</h1>
                         <div class="all__flex--first">
-                            <h2 class="title title--first">Nom</h2>
-                            <p class="all__para all__para--second">Legrand François</p>
+                            <h2 class="title title--first">Adresse</h2>
+                            <p class="all__para all__para--second">27 rue clovis Liévin</p>
                         </div>
                         <div class="all__flex--first">
                             <h2 class="title title--first">Date de naissance</h2>
