@@ -68,7 +68,7 @@
                                     <i class="title__ico fas fa-certificate"></i>
                                 </div>
                                 <p class="all__para">
-                                BEM n'est ni une marque de voiture ni un groupe de musique, et encore moins une onomatopée (quoique). C'est plutôt une façon de nommer les classes en CSS, une convention en d'autres termes voire une méthodologie. 
+                                C'est une façon de nommer les classes en CSS, une convention en d'autres termes voire une méthodologie. 
                                 </p>
                             </div>
                             <div class="all__box">
@@ -77,7 +77,7 @@
                                     <i class="title__ico fab fa-html5"></i>
                                 </div>    
                                 <p class="all__para">
-                                Le HTML sémantique est l'utilisation du balisage HTML visant à renforcer le sémantisme des informations contenues dans les pages web, c'est-à-dire leur sens, plutôt que de se borner à définir leurs présentations.
+                                Le HTML sémantique est l'utilisation du balisage HTML visant à renforcer le sémantisme des informations contenues dans les pages web.
                                 </p>
                             </div>
                         </div>
