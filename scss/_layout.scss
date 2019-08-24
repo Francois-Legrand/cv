@@ -217,7 +217,7 @@
     }
     /*menu*/                                  
     /*Sprite*/
-#sprite-accueil, #sprite-exp, #sprite-portfolio, #sprite-contact, #sprite-feedback, #sprite-blog, #facebook, #linkedin, #mail, #twitter{
+#sprite-accueil, #sprite-exp, #sprite-portfolio, #sprite-contact, #sprite-feedback, #sprite-blog{
     width: 50px;
     height: 50px;
     display: none;
@@ -267,22 +267,29 @@
     margin: -50px 90px 0px;
 }
 
+#facebook, #linkedin, #mail, #twitter{
+    width: 50px;
+    height: 50px;
+    display: block;
+    position: absolute;
+    z-index: 2;
+}
 #facebook:hover, #linkedin:hover, #mail:hover, #twitter:hover{
-        box-shadow: 0px 0px 5px;
+    box-shadow: 0px 0px 5px;
 }
 #facebook{
     background: url("../img/sprite/sprite3.png") no-repeat local 0px 0px;
-    margin: 50px 55px;
+    margin: 0 0;
 }
 #linkedin{
     background: url("../img/sprite/sprite3.png") no-repeat local -120px 0px;
-    margin: 50px 104px;
+    margin: 0 50px;
 }
 #mail{
     background: url("../img/sprite/sprite3.png") no-repeat local -240px 0px;
-    margin: 50px 153px;
+    margin: 0px 100px;
 }
 #twitter{
     background: url("../img/sprite/sprite3.png") no-repeat local -360px 0px;
-    margin: 50px 203px;
-}
+    margin: 0px 150px;
+} 

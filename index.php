@@ -34,53 +34,30 @@
                             <h2 class="title title--first">Télephone</h2>
                             <p class="all__para all__para--second">07-81-11-31-67</p>
                         </div>
-                        <div class="reseaux">
-                            <a href="https://www.facebook.com/francois.legrand.1840">
-                                <span id="facebook"></span>
-                            </a>
-                            <a href="https://www.linkedin.com/in/fran%C3%A7ois-legrand-a768a185">
-                                <span id="linkedin"></span>
-                            </a>
-                            <a href="mailto:francois.legrand62800@gmail.com">
-                                <span id="mail"></span>
-                            </a>
-                            <a href="https://twitter.com/Nikdoule">
-                                <span id="twitter"></span>
-                            </a>
+                        <div class="all__flex--first all__flex--no-border">
+                            <div class="reseaux">
+                                <a href="https://www.facebook.com/francois.legrand.1840">
+                                    <span id="facebook"></span>
+                                </a>
+                                <a href="https://www.linkedin.com/in/fran%C3%A7ois-legrand-a768a185">
+                                    <span id="linkedin"></span>
+                                </a>
+                                <a href="mailto:francois.legrand62800@gmail.com">
+                                    <span id="mail"></span>
+                                </a>
+                                <a href="https://twitter.com/Nikdoule">
+                                    <span id="twitter"></span>
+                                </a>
+                            </div>
                         </div>
+                        
                     </section>
                 <!--partie 1 de gauche-->  
                     <section class="all all--first all__border--first">
-                        <h1 class="title">Les Bonnes Pratiques!</h1>
-                        <div class="all__flex">
-                            <div class="all__box">
-                                <div class="all__title">
-                                    <h2 class="title">Mobile first</h2>
-                                    <i class="title__ico fas fa-mobile-alt"></i>
-                                </div>
-                                <p class="all__para">
-                                Le concept mobile first consiste à concevoir un site en concevant en priorité la version mobile. Cette pratique est devenu courante.
-                                </p>
-                            </div>
-                            <div class="all__box">
-                                <div class="all__title">
-                                    <h2 class="title">BEM</h2>
-                                    <i class="title__ico fas fa-certificate"></i>
-                                </div>
-                                <p class="all__para">
-                                C'est une façon de nommer les classes en CSS, une convention en d'autres termes voire une méthodologie. 
-                                </p>
-                            </div>
-                            <div class="all__box">
-                                <div class="all__title">
-                                    <h2 class="title">Sémantique</h2>
-                                    <i class="title__ico fab fa-html5"></i>
-                                </div>    
-                                <p class="all__para">
-                                Le HTML sémantique est l'utilisation du balisage HTML visant à renforcer le sémantisme des informations contenues dans les pages web.
-                                </p>
-                            </div>
-                        </div>
+                        <h1 class="title">Un peu de moi!</h1>
+                        <p class="all__para all__para--resum">
+                        Bonjour ! Je me prénomme François, j'étais apprenant au sein d'une formation de développement web courant 2019. Je suis une personne curieuse et sympathique passionné par le développement web. Quotidiennement soucieux de monter en compétence, mon objectif est de devenir developpeur front end React en apportant une valeur ajoutée à l'entreprise qui me fera confiance.
+                            </p>
                     </section>
                 </article>  
                 <!--partie 2 de gauche-->
@@ -119,7 +96,7 @@
                 <article class="section">
                     <section class="all all--second all--sixth all__border--first">
                         <div class="all__loisir">
-                            <h3 class="title">Des loisirs pour décomprésser</h3>
+                            <h3 class="title">Des loisirs pour se maintenir en forme</h3>
                             <p class="all__para">
                             Rien de tel qu'une petite course à pièd pour décompresser,après une dure journée de travail, se dépenser c'est remettre les compteur a zéro. je peux courrir jusqu'a 50km par semaine dans les meilleurs moments. 
                             </p>
@@ -128,7 +105,7 @@
                     </section>
                     <section class="all all--second all--sixth all--seventh all__border--third">
                         <div class="all__loisir">
-                            <h3 class="title">Des séries Netflix</h3>
+                            <h3 class="title">Des séries</h3>
                             <p class="all__para">
                             Idéal pour s'endormir, rester passif devant une serie nous aides parfois bien dormir. 
                             </p>

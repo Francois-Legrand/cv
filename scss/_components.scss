@@ -113,9 +113,7 @@
                         &__bg--fifth{
                             background-color: #9b56b5;
                         }
-                        &--first{
-                            height: 350vh;
-                        }
+                        
                         &__border--first{
                             @include border(#16be99);
                         }
@@ -196,6 +194,7 @@
                                         font-weight: 100;
                                         font-family: 'Coda', cursive;
                                         margin-bottom: 0;
+                                        margin-top: 10px;
                                         padding:0;
                                         font-size: 1.3rem;
                                     }

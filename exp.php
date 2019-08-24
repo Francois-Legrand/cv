@@ -40,7 +40,7 @@
                         <div class="all__pop">
                         </div>
                         <h2 class="title">CDV INFORMATIQUE</h2>
-                            <p class="all__para">CDV INFORMATIQUE est une entreprise de dépannage hardware dans le domaine de l'informatique. Elle traite les demandes des entreprise mais aussi des particuliers.</p>
+                            <p class="all__para">CDV INFORMATIQUE est une entreprise de dépannage hardware dans le domaine de l'informatique. Elle traite les demandes des entreprises mais aussi des particuliers.</p>
                     </div>
                 </section>
             </article>

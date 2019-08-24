@@ -107,25 +107,15 @@
                                                 position: absolute;
                                                 z-index: 2;
                                             }
-                                            #facebook:hover, #linkedin:hover, #mail:hover, #twitter:hover{
-                                                box-shadow: 0px 0px 5px;
+                                            
+                                            .reseaux{
+                                                position: relative;
+                                                left: 105px;
+                                                top: 35px;
+                                                height: 50px;
+                                                width: 200px;
+                                                background-color: black;
                                             }
-                                            #facebook{
-                                                background: url("../img/sprite/sprite3.png") no-repeat local 0px 0px;
-                                                margin: -15px 125px;
-                                            }
-                                            #linkedin{
-                                                background: url("../img/sprite/sprite3.png") no-repeat local -120px 0px;
-                                                margin: -15px 174px;
-                                            }
-                                            #mail{
-                                                background: url("../img/sprite/sprite3.png") no-repeat local -240px 0px;
-                                                margin: -15px 223px;
-                                            }
-                                            #twitter{
-                                                background: url("../img/sprite/sprite3.png") no-repeat local -360px 0px;
-                                                margin: -15px 272px;
-                                            } 
             
                 .section--third{
                     display: flex;
@@ -175,6 +165,12 @@
                                 .all__para{
                                     margin-bottom: 60px;
                                     font-size: 1rem;
+                                    position: relative;
+                                    top: 15px;
+                                }
+                                .all__para--resum{
+                                    position: relative;
+                                    top: -80px;
                                 }
                                     .all__img--first{
                                         width: 600px;
