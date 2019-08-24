@@ -22,15 +22,15 @@
                     <div class="carousel-inner">
                         <div class="carousel-item active">
                             <div class="card" style="width: 18rem;">
-                                <img src="https://place-hold.it/320x320/666" class="card-img-top" alt="...">
+                                <img src="img/firstline.jpg" class="card-img-top" alt="...">
                                 <div class="card-body">
                                     <h5 class="card-title">first line</h5>
                                     <p class="card-text">Firste line est un salon de coiffure de liévin.</p>
-                                    <a href="http://cdv-dev.fr/firstlinefirstmobile/" class="btn btn-primary">Aller voir</a>
+                                    <a href="https://cdv-dev.fr/firstlinefirstmobile/" class="btn btn-primary">Aller voir</a>
                                 </div>
                             </div>
                         </div>
-                        <div class="carousel-item">
+                        <!--<div class="carousel-item">
                         <div class="card" style="width: 18rem;">
                                 <img src="https://place-hold.it/320x320/666" class="card-img-top" alt="...">
                                 <div class="card-body">
@@ -49,7 +49,7 @@
                                     <a href="http://cdv-dev.fr/firstlinefirstmobile/" class="btn btn-primary">Aller voir</a>
                                 </div>
                             </div>
-                        </div>
+                        </div>-->
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>

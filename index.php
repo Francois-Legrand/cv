@@ -45,7 +45,7 @@
                                 <a href="mailto:francois.legrand62800@gmail.com">
                                     <span id="mail"></span>
                                 </a>
-                                <a href="https://twitter.com/Nikdoule">
+                                <a href="cv/francois.legrand.pdf">
                                     <span id="twitter"></span>
                                 </a>
                             </div>
@@ -96,7 +96,7 @@
                 <article class="section">
                     <section class="all all--second all--sixth all__border--first">
                         <div class="all__loisir">
-                            <h3 class="title">Des loisirs pour se maintenir en forme</h3>
+                            <h3 class="title">Du sport pour se maintenir en forme</h3>
                             <p class="all__para">
                             Rien de tel qu'une petite course à pièd pour décompresser,après une dure journée de travail, se dépenser c'est remettre les compteur a zéro. je peux courrir jusqu'a 50km par semaine dans les meilleurs moments. 
                             </p>
@@ -105,12 +105,12 @@
                     </section>
                     <section class="all all--second all--sixth all--seventh all__border--third">
                         <div class="all__loisir">
-                            <h3 class="title">Des séries</h3>
+                            <h3 class="title">Graphisme 3D</h3>
                             <p class="all__para">
-                            Idéal pour s'endormir, rester passif devant une serie nous aides parfois bien dormir. 
+                            Depuis quelques années, je me spécialise dans l'imagerie 3D.
                             </p>
                         </div>    
-                            <img class="all__img--first" src="img/netflix.jpg" alt="une personne qui cours">
+                            <img class="all__img--first" src="img/3d.jpg" alt="une image 3d">
                     </section>
                     <section class="all all--fifth all--second all--sixth all__border--second">
                         <div class="all__loisir">
@@ -119,7 +119,7 @@
                             J'aime cuisiner et faire de bon petit plat, après avoir fait du sport j'ai besoin de recharger les batteries. je suis aussi intéressé par la patisserie, l'aspect technique de cette discipline est très intéressante. 
                             </p>
                         </div>
-                            <img class="all__img--first" src="img/gastonomie.jpg" alt="une personne qui cours">
+                            <img class="all__img--first" src="img/gastonomie.jpg" alt="un plat français">
                     </section>
                 </article>
             </main> 

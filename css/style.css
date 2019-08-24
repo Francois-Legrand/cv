@@ -283,19 +283,19 @@ ul span {
   box-shadow: 0px 0px 5px; }
 
 #facebook {
-  background: url("../img/sprite/sprite3.png") no-repeat local 0px 0px;
+  background: url("../img/sprite/sprite4.png") no-repeat local 0px 0px;
   margin: 0 0; }
 
 #linkedin {
-  background: url("../img/sprite/sprite3.png") no-repeat local -120px 0px;
+  background: url("../img/sprite/sprite4.png") no-repeat local -120px 0px;
   margin: 0 50px; }
 
 #mail {
-  background: url("../img/sprite/sprite3.png") no-repeat local -240px 0px;
+  background: url("../img/sprite/sprite4.png") no-repeat local -240px 0px;
   margin: 0px 100px; }
 
 #twitter {
-  background: url("../img/sprite/sprite3.png") no-repeat local -360px 0px;
+  background: url("../img/sprite/sprite4.png") no-repeat local -360px 0px;
   margin: 0px 150px; }
 
 /*header*/
@@ -459,6 +459,16 @@ ul span {
 
 .title--third {
   margin-top: 0; }
+
+.card-body {
+  background-color: black; }
+
+.card-text, .card-title {
+  color: white !important; }
+
+h6 {
+  text-align: center;
+  font-size: 3.5rem !important; }
 
 @media screen and (min-width: 768px) {
   .all--second {
