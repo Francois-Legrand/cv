@@ -71,7 +71,7 @@
                                 <p class="all__para">Technicien de maintenance hardware pour la societé CDV informatique.</p>
                             </div>
                             <div class="all__box all__box--first">
-                                <h2 class="title title--second">Magasinier pour le groupe HANNAC</h2>
+                                <h2 class="title title--second">Magasinier pour le groupe AHNAC</h2>
                                 <h3 class="title title--first title--second">2005-2007</h3>
                                 <p class="all__para">Gestion matériels en pharmacie de la polyclinique de liévin.</p>
                             </div>
@@ -98,7 +98,7 @@
                         <div class="all__loisir">
                             <h3 class="title">Du sport pour se maintenir en forme</h3>
                             <p class="all__para">
-                            Rien de tel qu'une petite course à pièd pour décompresser,après une dure journée de travail, se dépenser c'est remettre les compteur a zéro. je peux courrir jusqu'a 50km par semaine dans les meilleurs moments. 
+                            Rien de tel qu'une petite course à pied pour décompresser,après une dure journée de travail, se dépenser c'est remettre les compteurs à zéro. je peux courir jusqu'a 50km par semaine dans mes meilleurs moments. 
                             </p>
                         </div>
                             <img class="all__img--first" src="img/course-a-pied.jpg" alt="une personne qui cours">
@@ -107,7 +107,7 @@
                         <div class="all__loisir">
                             <h3 class="title">Graphisme 3D</h3>
                             <p class="all__para">
-                            Depuis quelques années, je me spécialise dans l'imagerie 3D.
+                            Depuis quelques années je me spécialise dans l'imagerie 3D.
                             </p>
                         </div>    
                             <img class="all__img--first" src="img/3d.jpg" alt="une image 3d">
@@ -116,7 +116,7 @@
                         <div class="all__loisir">
                             <h3 class="title">La gastronomie française</h3>
                             <p class="all__para ">
-                            J'aime cuisiner et faire de bon petit plat, après avoir fait du sport j'ai besoin de recharger les batteries. je suis aussi intéressé par la patisserie, l'aspect technique de cette discipline est très intéressante. 
+                            J'aime cuisiner et faire de bon petit plat, après avoir fait du sport j'ai besoin de recharger les batteries. je suis aussi intéressé par la pâtisserie, l'aspect technique de cette discipline est très intéressante. 
                             </p>
                         </div>
                             <img class="all__img--first" src="img/gastonomie.jpg" alt="un plat français">
