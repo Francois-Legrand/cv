@@ -316,7 +316,7 @@ ul span {
   .header__img-container {
     display: flex;
     justify-content: center;
-    background-color: black; }
+    background-color: #000000; }
   .header__right {
     display: flex;
     flex-direction: column; }
@@ -488,8 +488,8 @@ h6 {
     padding-top: 7px; }
 
   .all__img {
-    height: 240px;
-    width: 240px; } }
+    height: 200px;
+    width: 200px; } }
 @media screen and (min-width: 1024px) {
   .all__site {
     margin: auto;

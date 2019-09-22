@@ -3,7 +3,7 @@
     <head>
     <script src="jauge/raphael.js"></script>
     <script src="jauge/justgage.js"></script>
-        <title>WEB CV LEGRAND FRANCOIS</title>
+        <title>Web cv François Legrand</title>
         <meta charset="UTF-8">
         <meta name="description" content="Développeur web Legrand François">
         <meta name="viewport"content="width=device-width, initial-scale=1.0">
@@ -55,7 +55,7 @@
                     <section class="all all--first all__border--first">
                         <h1 class="title">Un peu de moi!</h1>
                         <p class="all__para all__para--resum">
-                        Bonjour ! Je me prénomme François, j'étais apprenant au sein d'une formation de développement web courant 2019. Je suis une personne curieuse et sympathique passionné par le développement web. Quotidiennement soucieux de monter en compétence, mon objectif est de devenir developpeur front end React en apportant une valeur ajoutée à l'entreprise qui me fera confiance.
+                        Bonjour ! Je me prénomme François, j'étais apprenant au sein d'une formation de développement web courant 2019. Je suis une personne curieuse et dynamique passionnée par les nouvelles technologies. Quotidiennement soucieux de monter en compétence, mon objectif est de devenir developpeur front end React en apportant une valeur ajoutée à l'entreprise qui me fera confiance.
                             </p>
                     </section>
                 </article>  
